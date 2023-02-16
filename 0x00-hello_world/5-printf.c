@@ -2,6 +2,8 @@
 
 /**
  * main - this is a descriptin
+ *
+ * Return: return zero
  */
 int main(void)
 {
