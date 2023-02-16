@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - function description 
  * Return: return 0
