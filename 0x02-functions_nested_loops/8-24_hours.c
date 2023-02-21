@@ -1,10 +1,6 @@
 #include "main.h"
 /**
- * jack_bauer - main thing
- *
- * @i: integer
- *
- * @j: integer
+ * jack_bauer - main
  *
  */
 void jack_bauer(void)
