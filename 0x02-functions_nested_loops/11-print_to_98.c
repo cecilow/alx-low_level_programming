@@ -5,13 +5,21 @@
  *
  * @n: the starting number
  *
+ * @i: integer
+ *
+ * @j: interger
+ *
  * Return: return zero
  */
 void print_to_98(int n)
 {
+	int i;
+
+	int j;
+
 	if (n < 98)
 	{
-		for (int i = n; n <= 98; i++)
+		for (i = n; n <= 98; i++)
 		{
 			printf("%d", i);
 			if (i != 98)
@@ -22,7 +30,7 @@ void print_to_98(int n)
 	}
 	else
 	{
-		for (int j = n; n >= 98; j--)
+		for (j = n; n >= 98; j--)
 		{
 			printf("%d, ", j);
 			if (j != 98)
