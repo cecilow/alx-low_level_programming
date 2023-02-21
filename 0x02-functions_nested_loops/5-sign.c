@@ -1,5 +1,4 @@
 #include "main.h"
-#include "0-putchar.c"
 /**
  * print_sign - print a sign to rep a number
  *
