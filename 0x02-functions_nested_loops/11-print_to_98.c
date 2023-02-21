@@ -5,8 +5,6 @@
  *
  * @n: the starting number
  *
- * @i: integer
- *
  * Return: return zero
  */
 void print_to_98(int n)
