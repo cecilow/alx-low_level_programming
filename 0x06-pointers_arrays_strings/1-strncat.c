@@ -3,6 +3,7 @@
  * _strncat - copy a string at n to another
  * @dest: destination
  * @src: source
+ * @n: number
  *
  * Return: return to poitner
  */
