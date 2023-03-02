@@ -4,7 +4,7 @@
  * @s: the alphabet
  * Return: return pointer to the alphabet
  */
-char *rot13(char *)
+char *rot13(char *s)
 {
 	char alpha[52] = "aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZ";
 	char cipher[52] = "nNoOpPqQrRsStTuUvVwWxXyYzZaAbBcCdDeEfFgGhHiIjJkKlLmM";
