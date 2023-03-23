@@ -3,7 +3,8 @@
 #include "function_pointers.h"
 /**
  * int_index - function to return index
- * @@size: size of array
+ * @array: array of values
+ * @size: size of array
  * @cmp: function pointer
  *
  * Return: return index of type int
