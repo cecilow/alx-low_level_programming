@@ -14,13 +14,13 @@ list_t *add_node_end(list_t **head, const char *str)
 {
 	int i = 0;
 
+	list_t *new_node = (list_t *)malloc(sizeof(list_t));
+	list_t *last_node = (*head);
+
 	while (str[i])
 	{
 		i++;
 	}
-
-	list_t *new_node = (list_t *)malloc(sizeof(list_t));
-	list_t *last_node = (*head);
 
 	if (new_node == NULL)
 	{
