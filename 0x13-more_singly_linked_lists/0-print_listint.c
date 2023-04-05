@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "lists.h"
 /**
- * size_t print_listint - prints integers in list
+ * print_listint - prints integers in list
  * @h: of structure type
  * Return: return number of nodes
  */
