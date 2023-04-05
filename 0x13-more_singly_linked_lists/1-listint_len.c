@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <lists.h>
+#include "lists.h"
 /**
  * listint_len - length of linked list
  * @h: struct to go through
